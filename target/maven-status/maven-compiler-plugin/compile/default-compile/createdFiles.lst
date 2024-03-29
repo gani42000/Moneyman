@@ -1,0 +1,7 @@
+accountManagement/User.class
+moneyman/App.class
+money/Transaction.class
+money/TransactionType.class
+accountManagement/Bank.class
+accountManagement/CreateAccount.class
+money/TransactionGroup.class
